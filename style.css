@@ -1,0 +1,44 @@
+table{
+    width: 400px;
+    height: 650px;
+    background-color: s;
+    table-layout: fixed;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.result{
+    background-color: black;
+    font-size: 80px;
+    font-family:Apple Braille;
+    color: whitesmoke;
+    text-align: right;
+    vertical-align: bottom;
+}
+
+td{
+    color: darkgoldenrod;
+    background-color:gainsboro;
+    text-align: center;
+    font-size: x-large;
+    
+}
+
+.last-column{
+    background-color:tomato;
+    font-size: x-large;
+    color: white;
+}
+
+nav{
+    width:400px;
+    background-color: tomato;
+    display: inline-block;
+    line-height: 20px;
+    color: white;
+}
+
+td:hover{
+    background-color: cornflowerblue;
+}
